@@ -1,0 +1,12 @@
+C:\Users\uctyc\source\repos\pm_training\pm_training\bin\Debug\pm_training.exe.config
+C:\Users\uctyc\source\repos\pm_training\pm_training\bin\Debug\pm_training.exe
+C:\Users\uctyc\source\repos\pm_training\pm_training\bin\Debug\pm_training.pdb
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.csproj.AssemblyReference.cache
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.FormReg.resources
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.Properties.Resources.resources
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.csproj.GenerateResource.cache
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.csproj.CoreCompileInputs.cache
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.exe
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.pdb
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.Catalog.resources
+C:\Users\uctyc\source\repos\pm_training\pm_training\obj\Debug\pm_training.FormAuth.resources
